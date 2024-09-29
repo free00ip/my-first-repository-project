@@ -1,0 +1,33 @@
+html {
+    font-size: 18px;
+}
+
+body {
+    background-color: linen;
+}
+
+h1 {
+    color: chocolate;
+    text-align: center;
+}
+
+h2 {
+    color: chocolate;
+    text-decoration: underline;
+}
+
+.border {
+    border: 3px dashed chocolate;
+}
+
+.motto {
+    text-transform: uppercase;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: bold;
+}
